@@ -4,6 +4,14 @@
 ### description
 Description of path
 
+### example request body (if applicable)
+```js
+  {
+    "this": "is",
+    "an": "example"
+  }
+```
+
 ### example response body
 
 ```js
