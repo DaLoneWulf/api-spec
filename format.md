@@ -1,4 +1,4 @@
-# pathname
+# *pathname*
 
 ## *method*
 ## path *`method`* : *`path`*
@@ -9,14 +9,14 @@
 ### description
 *Description of path*
 
-### example request body (if applicable)
+### request body *(if applicable)*
 ```js
   {
     "this": "is",
     "an": "example"
   }```
 
-### example response body
+### response body
 
 ```js
   {
