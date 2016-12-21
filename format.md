@@ -1,10 +1,6 @@
 # *pathname*
 
-## *method*
-## path *`method`* : *`path`*
-
-## path *`path`*
-
+## *`method`* : *`path`*
 
 ### description
 *Description of path*
