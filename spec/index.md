@@ -4,14 +4,4 @@
 ### description
 Get an overall status overview of the server, including date on the server, list of subreddats, and more to come
 
-### example response body
-```js
-{
-  "date": 789234987843,
-  "sub": [
-    "list",
-    "of",
-    "subreddats"
-  ]
-}
-```
+this endpoint will always return 200 if the server is up, check this url to test wether backend is working properly
