@@ -10,13 +10,15 @@
   {
     "this": "is",
     "an": "example"
-  }```
+  }
+```
 
-### response body
+### response body *(if applicable)*
 
 ```js
   {
     "this": "is",
     "example": "response",
     "data": true
-  }```
+  }
+```
